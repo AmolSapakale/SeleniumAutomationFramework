@@ -81,6 +81,12 @@
                     <suiteXmlFiles>
                         <suiteXmlFile>testng.xml</suiteXmlFile>
                     </suiteXmlFiles>
+                    <systemPropertyVariables>
+
+                        <!--suppress UnresolvedMavenProperty -->
+                        <browser>${Browser}</browser>
+
+                    </systemPropertyVariables>
                 </configuration>
             </plugin>
         </plugins>

@@ -10,6 +10,7 @@ import com.ajs.pages.LoginPage;
 import com.ajs.utils.ReadExcelFileUtils;
 import com.ajs.utils.ReadPropertyFileUtils;
 import org.testng.annotations.DataProvider;
+import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 
 import java.util.HashMap;
@@ -18,9 +19,10 @@ public class LoginLogoutTest extends BaseTest {
 
 
     @CustomAnnotation(authors = {"Tester1"},categories = {TestCategories.SMOKE,TestCategories.REGRESSION})
+    @Parameters("Browser")
     @Test(retryAnalyzer = RetryAnalyzer.class)
-    public void test1() {
-        DriverUtils.initDriver("edge");
+    public void test1(String browser) {
+        DriverUtils.initDriver(browser);
         DriverManager.getDriver().get(ReadPropertyFileUtils.getValueFromPropertyFile(ConfigProperties.URL));
 
         LoginPage lp = new LoginPage();
