@@ -1,0 +1,11 @@
+
+	java:S112*"FDefine and throw a dedicated exception instead of using a generic one.(ô¬íáşÿÿÿÿ8ÜŒ»¸ö1J$faa95e8b-f9a1-429d-b738-bf845c2a8fe8
+	java:S112,"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ÜŒ»¸ö1J$3398b285-04b8-45fa-8907-0e18e37be1af
+m	java:S106""+Replace this use of System.out by a logger.(µˆœÑ8ùŒ»¸ö1J$9c7fe605-2e6f-445b-9999-d2620b5486cc
+m	java:S106/"+Replace this use of System.out by a logger.(ûù¦8üŒ»¸ö1J$ca2de8a4-ed60-417a-870c-e6f6b54aa1df
+r	java:S1060"+Replace this use of System.out by a logger.(ı·¹ûÿÿÿÿ8ıŒ»¸ö1J$6d432b24-0f2e-4ada-8b5c-d407b29473a9
+m	java:S1061"+Replace this use of System.out by a logger.(îíš§8ıŒ»¸ö1J$9f71937f-609e-46f6-9c4c-2f5fd3d546dd
+‚
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ8Û‰òòö1J$635e2a3f-d3db-41e8-89a8-67ea9092af3c
+R
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8£îòòö1

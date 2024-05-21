@@ -1,0 +1,17 @@
+
+	java:S112:"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8÷Ëùğö1J$f444b58a-cdd4-4221-9988-0609b20830c4
+	java:S112<"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8÷Ëùğö1J$c46142fc-43ec-4d85-9f84-1df63c8d807f
+	java:S112a"FDefine and throw a dedicated exception instead of using a generic one.(¿úÍ˜üÿÿÿÿ8÷Ëùğö1J$9cfd39f5-c27f-4f7e-971b-9dbba7d2a258
+	java:S112c"FDefine and throw a dedicated exception instead of using a generic one.(°úõøÿÿÿÿ8øËùğö1J$facccffa-2544-4f53-a6d5-a1896a481963
+¸
+java:S1319B"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ıı†ÿÿÿÿÿ8ùËùğö1J$ec5183dc-d8c4-485f-870d-d5c4e0304cba
+‡
+java:S2147;"DCombine this catch with the one at line 57, which has the same body.(ï­£Ä8£Ìùğö1J$c8559d41-2cde-468c-ac8b-822acf2e9ae4
+r	java:S1062"+Replace this use of System.out by a logger.(¡á¤Öıÿÿÿÿ8±Ìùğö1J$fc0f866e-0e44-4e16-80fb-247034db0e49
+r	java:S1065"+Replace this use of System.out by a logger.(ì­øúÿÿÿÿ8±Ìùğö1J$2b3b6200-39ef-4ab6-be3c-9dee3eb71331
+r	java:S106N"+Replace this use of System.out by a logger.(ººÃşøÿÿÿÿ8¶Ìùğö1J$65feddaf-1622-4500-bf73-d166e1490a89
+r	java:S106O"+Replace this use of System.out by a logger.(²¢Œıÿÿÿÿ8·Ìùğö1J$c0916335-4a4a-451c-8bbc-1cd91de2a24a
+r	java:S106]"+Replace this use of System.out by a logger.(¡á¤Öıÿÿÿÿ8¹Ìùğö1J$722ce6d2-55c6-4f55-8b03-b8ca71541d36
+r	java:S106^"+Replace this use of System.out by a logger.(ã¿¢Ôùÿÿÿÿ8¹Ìùğö1J$001e526e-866f-4b2b-b82a-03546316e726
+q
+java:S1128".Remove this unused import 'java.util.Objects'.(¼¸õ›8àûğö1J$ea0e049c-198f-431e-acc7-9cb32863dfc7

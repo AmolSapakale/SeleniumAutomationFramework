@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite" parallel="methods" thread-count="3" data-provider-thread-count="3">
+    <listeners>
+        <listener class-name="com.ajs.listeners.ListenerClass"></listener>
+        <listener class-name="com.ajs.listeners.MethodInterceptor"></listener>
+    </listeners>
+    <test verbose="2" preserve-order="true" name="C:/Users/ajsap/IdeaProjects/SeleniumAutomationFramework">
+        <classes>
+            <class name="com.ajs.tests.LoginLogoutTest">
+                <methods>
+                    <include name="test1"/>
+                    <include name="test2"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
