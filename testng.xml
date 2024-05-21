@@ -9,8 +9,10 @@
         <classes>
             <class name="com.ajs.tests.LoginLogoutTest">
                 <methods>
+                    
                     <include name="test1"/>
                     <include name="test2"/>
+                    
                 </methods>
             </class>
         </classes>
